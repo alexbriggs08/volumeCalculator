@@ -1,0 +1,9 @@
+# ninja log v6
+0	609	1729619898446359580	CMakeFiles/volumeCalculator.dir/main.cpp.o	e37a4f3da9b793ec
+1	612	1729619898447178635	CMakeFiles/volumeCalculator.dir/functions.cpp.o	40a4cdfd85a458e0
+612	723	1729619899058518278	volumeCalculator	ee42ebe5fcebd0c3
+4	424	1729619957741180833	CMakeFiles/volumeCalculator.dir/main.cpp.o	e37a4f3da9b793ec
+425	455	1729619958161649611	volumeCalculator	ee42ebe5fcebd0c3
+19	777	1729622766587743732	CMakeFiles/volumeCalculator.dir/functions.cpp.o	40a4cdfd85a458e0
+5	502	1729622787987867066	CMakeFiles/volumeCalculator.dir/main.cpp.o	e37a4f3da9b793ec
+502	614	1729622788485067575	volumeCalculator	ee42ebe5fcebd0c3
